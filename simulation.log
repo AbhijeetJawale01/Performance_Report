@@ -1,0 +1,316 @@
+RUN	rates.RatesPerformance	ratesperformance	1662461289902	 	3.7.4
+USER	Rates Performance5	START	1662461290069
+USER	Rates Performance7	START	1662461290077
+USER	Rates Performance1	START	1662461290071
+USER	Rates Performance4	START	1662461290062
+USER	Rates Performance3	START	1662461290067
+USER	Rates Performance6	START	1662461290075
+USER	Rates Performance2	START	1662461290073
+REQUEST		POST /ff_auth/login	1662461295167	1662461295937	OK	 
+REQUEST		POST /ff_auth/login	1662461295171	1662461295946	OK	 
+REQUEST		POST /ff_auth/login	1662461295168	1662461295911	OK	 
+REQUEST		POST /ff_auth/login	1662461295219	1662461295919	OK	 
+REQUEST		POST /ff_auth/login	1662461295169	1662461295911	OK	 
+REQUEST		POST /ff_auth/login	1662461295167	1662461295923	OK	 
+REQUEST		POST /ff_auth/login	1662461295171	1662461295918	OK	 
+REQUEST		GET /ff_features/buildings/6ef8deb3-5c74-495c-b1ac-150a7141ed4d/rate_analysis_landing_page?energy_type_id=1	1662461296078	1662461297038	OK	 
+REQUEST		GET /ff_features/buildings/9ae58a82-f232-47b1-9995-184b6c3be868/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461296072	1662461297635	OK	 
+REQUEST		GET /ff_features/buildings/269f4e81-6278-46d9-912f-616d1ad60fa9/rate_analysis_landing_page?energy_type_id=1	1662461296069	1662461297603	OK	 
+REQUEST		GET /ff_features/buildings/f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3/rate_analysis_landing_page?energy_type_id=1	1662461296078	1662461297635	OK	 
+REQUEST		GET /ff_features/buildings/acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba/rate_analysis_landing_page?energy_type_id=1	1662461296069	1662461297726	OK	 
+REQUEST		GET /ff_features/buildings/cda22037-e9d6-4f11-ab7d-056efb10a5b1/rate_analysis_landing_page?energy_type_id=1	1662461296069	1662461297635	OK	 
+REQUEST		GET /ff_features/buildings/70cbdc03-db12-481e-bac6-000a8091e62c/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461296078	1662461297725	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000261519	1662461297635	1662461298404	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002868247	1662461297655	1662461298574	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5003527192	1662461297635	1662461298606	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002870935	1662461297603	1662461298442	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000023631	1662461297740	1662461298606	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000846937	1662461297170	1662461298207	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&chart_type=cost&tab=usage&energy_type_id=1	1662461298404	1662461300093	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&chart_type=cost&tab=usage&energy_type_id=1	1662461298574	1662461300361	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&chart_type=cost&tab=usage&energy_type_id=1	1662461298622	1662461300426	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000001549	1662461297732	1662461298672	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&chart_type=cost&tab=usage&energy_type_id=1	1662461298442	1662461300510	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&chart_type=cost&tab=usage&energy_type_id=1	1662461298622	1662461300594	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&chart_type=cost&tab=usage&energy_type_id=1	1662461298215	1662461300659	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461300109	1662461301055	OK	 
+USER	Rates Performance4	START	1662461302019
+USER	Rates Performance2	START	1662461302019
+USER	Rates Performance1	START	1662461302020
+USER	Rates Performance6	START	1662461302019
+USER	Rates Performance5	START	1662461302019
+USER	Rates Performance7	START	1662461302020
+USER	Rates Performance3	START	1662461302019
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461300377	1662461301278	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&chart_type=cost&tab=usage&energy_type_id=1	1662461298688	1662461301395	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461300430	1662461301362	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461300510	1662461301444	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461300611	1662461301546	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461300662	1662461301595	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461301411	1662461302295	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461301295	1662461302263	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461301063	1662461301974	OK	 
+REQUEST		GET /ff_auth/logout	1662461303167	1662461303597	OK	 
+REQUEST		GET /ff_auth/logout	1662461303114	1662461303597	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461301444	1662461302364	OK	 
+REQUEST		GET /ff_auth/logout	1662461303247	1662461303682	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461301362	1662461302328	OK	 
+REQUEST		GET /ff_auth/logout	1662461303282	1662461303732	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461301612	1662461302613	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461301546	1662461302364	OK	 
+REQUEST		GET /ff_auth/logout	1662461303348	1662461303752	OK	 
+REQUEST		GET /ff_auth/logout	1662461303315	1662461303752	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461302295	1662461303282	OK	 
+REQUEST		GET /ff_auth/logout	1662461304083	1662461304567	OK	 
+USER	Rates Performance2	END	1662461303605
+USER	Rates Performance1	END	1662461303605
+USER	Rates Performance3	END	1662461303676
+USER	Rates Performance6	END	1662461303730
+USER	Rates Performance4	END	1662461303756
+USER	Rates Performance5	END	1662461303757
+USER	Rates Performance7	END	1662461304571
+REQUEST		POST /ff_auth/login	1662461303682	1662461304283	OK	 
+REQUEST		GET /ff_features/buildings/6ef8deb3-5c74-495c-b1ac-150a7141ed4d/rate_analysis_landing_page?energy_type_id=1	1662461304283	1662461305140	OK	 
+REQUEST		POST /ff_auth/login	1662461305056	1662461305758	OK	 
+REQUEST		POST /ff_auth/login	1662461305123	1662461305789	OK	 
+REQUEST		POST /ff_auth/login	1662461305123	1662461305806	OK	 
+REQUEST		POST /ff_auth/login	1662461305089	1662461305725	OK	 
+REQUEST		POST /ff_auth/login	1662461305105	1662461305725	OK	 
+REQUEST		POST /ff_auth/login	1662461305272	1662461305940	OK	 
+REQUEST		GET /ff_features/buildings/cda22037-e9d6-4f11-ab7d-056efb10a5b1/rate_analysis_landing_page?energy_type_id=1	1662461305725	1662461306657	OK	 
+REQUEST		GET /ff_features/buildings/70cbdc03-db12-481e-bac6-000a8091e62c/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461305941	1662461306693	OK	 
+REQUEST		GET /ff_features/buildings/acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba/rate_analysis_landing_page?energy_type_id=1	1662461305806	1662461306657	OK	 
+REQUEST		GET /ff_features/buildings/f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3/rate_analysis_landing_page?energy_type_id=1	1662461305742	1662461306682	OK	 
+REQUEST		GET /ff_features/buildings/269f4e81-6278-46d9-912f-616d1ad60fa9/rate_analysis_landing_page?energy_type_id=1	1662461305806	1662461306656	OK	 
+REQUEST		GET /ff_features/buildings/9ae58a82-f232-47b1-9995-184b6c3be868/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461305773	1662461306657	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000846937	1662461305140	1662461306039	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&chart_type=cost&tab=usage&energy_type_id=1	1662461306055	1662461307725	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000261519	1662461306657	1662461307592	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000023631	1662461306657	1662461307468	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5003527192	1662461306657	1662461307468	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002868247	1662461306682	1662461307526	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002870935	1662461306657	1662461307558	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000001549	1662461306696	1662461307468	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&chart_type=cost&tab=usage&energy_type_id=1	1662461307609	1662461308645	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461307725	1662461308629	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&chart_type=cost&tab=usage&energy_type_id=1	1662461307480	1662461309027	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&chart_type=cost&tab=usage&energy_type_id=1	1662461307480	1662461309020	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&chart_type=cost&tab=usage&energy_type_id=1	1662461307543	1662461309094	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&chart_type=cost&tab=usage&energy_type_id=1	1662461307558	1662461309159	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&chart_type=cost&tab=usage&energy_type_id=1	1662461307480	1662461309279	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461308645	1662461309496	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461309029	1662461309845	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461309028	1662461309896	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461309094	1662461309928	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461308629	1662461309512	OK	 
+REQUEST		GET /ff_auth/logout	1662461310346	1662461310763	OK	 
+USER	Rates Performance4	END	1662461310760
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461309297	1662461310045	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461309178	1662461309996	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461309512	1662461310481	OK	 
+REQUEST		GET /ff_auth/logout	1662461311246	1662461311648	OK	 
+USER	Rates Performance1	END	1662461311649
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461309928	1662461310731	OK	 
+REQUEST		GET /ff_auth/logout	1662461311431	1662461311886	OK	 
+USER	Rates Performance2	END	1662461311879
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461309845	1662461310681	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461309896	1662461310715	OK	 
+REQUEST		GET /ff_auth/logout	1662461311567	1662461312082	OK	 
+REQUEST		GET /ff_auth/logout	1662461311567	1662461312082	OK	 
+USER	Rates Performance6	END	1662461312074
+USER	Rates Performance5	END	1662461312074
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461309996	1662461310964	OK	 
+REQUEST		GET /ff_auth/logout	1662461311648	1662461312082	OK	 
+USER	Rates Performance3	END	1662461312082
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461310045	1662461310964	OK	 
+REQUEST		GET /ff_auth/logout	1662461311864	1662461312389	OK	 
+USER	Rates Performance7	END	1662461312382
+USER	Rates Performance6	START	1662461314028
+USER	Rates Performance2	START	1662461314028
+USER	Rates Performance3	START	1662461314028
+USER	Rates Performance1	START	1662461314028
+USER	Rates Performance5	START	1662461314028
+USER	Rates Performance7	START	1662461314028
+USER	Rates Performance4	START	1662461314028
+REQUEST		POST /ff_auth/login	1662461315756	1662461316494	OK	 
+REQUEST		POST /ff_auth/login	1662461315756	1662461316494	OK	 
+REQUEST		POST /ff_auth/login	1662461315756	1662461316494	OK	 
+REQUEST		POST /ff_auth/login	1662461315756	1662461316494	OK	 
+REQUEST		POST /ff_auth/login	1662461315756	1662461316494	OK	 
+REQUEST		POST /ff_auth/login	1662461315756	1662461316513	OK	 
+REQUEST		POST /ff_auth/login	1662461315756	1662461316494	OK	 
+REQUEST		GET /ff_features/buildings/6ef8deb3-5c74-495c-b1ac-150a7141ed4d/rate_analysis_landing_page?energy_type_id=1	1662461316511	1662461317403	OK	 
+REQUEST		GET /ff_features/buildings/f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3/rate_analysis_landing_page?energy_type_id=1	1662461316511	1662461317414	OK	 
+REQUEST		GET /ff_features/buildings/acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba/rate_analysis_landing_page?energy_type_id=1	1662461316510	1662461317403	OK	 
+REQUEST		GET /ff_features/buildings/cda22037-e9d6-4f11-ab7d-056efb10a5b1/rate_analysis_landing_page?energy_type_id=1	1662461316511	1662461317414	OK	 
+REQUEST		GET /ff_features/buildings/70cbdc03-db12-481e-bac6-000a8091e62c/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461316513	1662461317447	OK	 
+REQUEST		GET /ff_features/buildings/9ae58a82-f232-47b1-9995-184b6c3be868/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461316494	1662461317414	OK	 
+REQUEST		GET /ff_features/buildings/269f4e81-6278-46d9-912f-616d1ad60fa9/rate_analysis_landing_page?energy_type_id=1	1662461316513	1662461317496	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000261519	1662461317414	1662461318427	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5003527192	1662461317414	1662461318427	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002868247	1662461317414	1662461318427	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000023631	1662461317403	1662461318427	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000001549	1662461317447	1662461318427	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000846937	1662461317403	1662461318427	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002870935	1662461317499	1662461318541	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&chart_type=cost&tab=usage&energy_type_id=1	1662461318445	1662461319577	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&chart_type=cost&tab=usage&energy_type_id=1	1662461318445	1662461319987	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&chart_type=cost&tab=usage&energy_type_id=1	1662461318445	1662461320058	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&chart_type=cost&tab=usage&energy_type_id=1	1662461318445	1662461320104	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&chart_type=cost&tab=usage&energy_type_id=1	1662461318550	1662461320153	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&chart_type=cost&tab=usage&energy_type_id=1	1662461318442	1662461320086	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&chart_type=cost&tab=usage&energy_type_id=1	1662461318442	1662461320138	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461319586	1662461320485	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461319991	1662461320904	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461320148	1662461321012	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461320068	1662461320950	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461320097	1662461320983	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461320161	1662461320981	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461320111	1662461320980	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461320488	1662461321481	OK	 
+REQUEST		GET /ff_auth/logout	1662461322300	1662461322812	OK	 
+USER	Rates Performance1	END	1662461322804
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461320995	1662461321932	OK	 
+REQUEST		GET /ff_auth/logout	1662461322793	1662461323231	OK	 
+USER	Rates Performance5	END	1662461323223
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461320956	1662461321931	OK	 
+REQUEST		GET /ff_auth/logout	1662461322812	1662461323290	OK	 
+USER	Rates Performance2	END	1662461323284
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461320905	1662461321880	OK	 
+REQUEST		GET /ff_auth/logout	1662461322817	1662461323294	OK	 
+USER	Rates Performance6	END	1662461323287
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461320991	1662461321976	OK	 
+REQUEST		GET /ff_auth/logout	1662461322812	1662461323301	OK	 
+USER	Rates Performance3	END	1662461323295
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461320985	1662461322028	OK	 
+REQUEST		GET /ff_auth/logout	1662461322812	1662461323305	OK	 
+USER	Rates Performance7	END	1662461323298
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461321017	1662461321910	OK	 
+REQUEST		GET /ff_auth/logout	1662461322812	1662461323329	OK	 
+USER	Rates Performance4	END	1662461323321
+USER	Rates Performance6	START	1662461326032
+USER	Rates Performance2	START	1662461326032
+USER	Rates Performance1	START	1662461326032
+USER	Rates Performance5	START	1662461326032
+USER	Rates Performance7	START	1662461326032
+USER	Rates Performance3	START	1662461326032
+USER	Rates Performance4	START	1662461326032
+REQUEST		POST /ff_auth/login	1662461327652	1662461328294	OK	 
+REQUEST		POST /ff_auth/login	1662461327644	1662461328256	OK	 
+REQUEST		POST /ff_auth/login	1662461327603	1662461328227	OK	 
+REQUEST		POST /ff_auth/login	1662461327678	1662461328335	OK	 
+REQUEST		POST /ff_auth/login	1662461327644	1662461328246	OK	 
+REQUEST		POST /ff_auth/login	1662461327603	1662461328226	OK	 
+REQUEST		POST /ff_auth/login	1662461327678	1662461328377	OK	 
+REQUEST		GET /ff_features/buildings/70cbdc03-db12-481e-bac6-000a8091e62c/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461328311	1662461329179	OK	 
+REQUEST		GET /ff_features/buildings/6ef8deb3-5c74-495c-b1ac-150a7141ed4d/rate_analysis_landing_page?energy_type_id=1	1662461328261	1662461329216	OK	 
+REQUEST		GET /ff_features/buildings/acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba/rate_analysis_landing_page?energy_type_id=1	1662461328234	1662461329216	OK	 
+REQUEST		GET /ff_features/buildings/f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3/rate_analysis_landing_page?energy_type_id=1	1662461328234	1662461329179	OK	 
+REQUEST		GET /ff_features/buildings/cda22037-e9d6-4f11-ab7d-056efb10a5b1/rate_analysis_landing_page?energy_type_id=1	1662461328335	1662461329189	OK	 
+REQUEST		GET /ff_features/buildings/269f4e81-6278-46d9-912f-616d1ad60fa9/rate_analysis_landing_page?energy_type_id=1	1662461328379	1662461329216	OK	 
+REQUEST		GET /ff_features/buildings/9ae58a82-f232-47b1-9995-184b6c3be868/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461328268	1662461329179	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000261519	1662461329189	1662461330165	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002870935	1662461329221	1662461330131	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5003527192	1662461329194	1662461330131	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002868247	1662461329189	1662461330130	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000023631	1662461329221	1662461330100	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000001549	1662461329187	1662461330083	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000846937	1662461329216	1662461330100	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&chart_type=cost&tab=usage&energy_type_id=1	1662461330136	1662461331449	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&chart_type=cost&tab=usage&energy_type_id=1	1662461330166	1662461331425	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&chart_type=cost&tab=usage&energy_type_id=1	1662461330131	1662461331600	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&chart_type=cost&tab=usage&energy_type_id=1	1662461330083	1662461331747	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&chart_type=cost&tab=usage&energy_type_id=1	1662461330100	1662461331778	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&chart_type=cost&tab=usage&energy_type_id=1	1662461330117	1662461331741	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&chart_type=cost&tab=usage&energy_type_id=1	1662461330136	1662461331568	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461331449	1662461332299	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461331425	1662461332405	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461331778	1662461332568	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461331568	1662461332635	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461331600	1662461332534	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461331752	1662461332568	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461331747	1662461332635	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461332299	1662461333117	OK	 
+REQUEST		GET /ff_auth/logout	1662461334002	1662461334527	OK	 
+USER	Rates Performance3	END	1662461334520
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461332407	1662461333351	OK	 
+REQUEST		GET /ff_auth/logout	1662461334153	1662461334617	OK	 
+USER	Rates Performance1	END	1662461334610
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461332581	1662461333446	OK	 
+REQUEST		GET /ff_auth/logout	1662461334253	1662461334702	OK	 
+USER	Rates Performance4	END	1662461334698
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461332647	1662461333484	OK	 
+REQUEST		GET /ff_auth/logout	1662461334353	1662461334903	OK	 
+USER	Rates Performance6	END	1662461334909
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461332534	1662461333532	OK	 
+REQUEST		GET /ff_auth/logout	1662461334566	1662461335020	OK	 
+USER	Rates Performance2	END	1662461335014
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461332644	1662461333707	OK	 
+REQUEST		GET /ff_auth/logout	1662461334565	1662461335054	OK	 
+USER	Rates Performance5	END	1662461335055
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461332581	1662461333623	OK	 
+REQUEST		GET /ff_auth/logout	1662461334567	1662461335054	OK	 
+USER	Rates Performance7	END	1662461335056
+USER	Rates Performance5	START	1662461338031
+USER	Rates Performance4	START	1662461338031
+USER	Rates Performance6	START	1662461338031
+USER	Rates Performance3	START	1662461338031
+USER	Rates Performance7	START	1662461338031
+USER	Rates Performance1	START	1662461338031
+USER	Rates Performance2	START	1662461338031
+REQUEST		POST /ff_auth/login	1662461339731	1662461340472	OK	 
+REQUEST		POST /ff_auth/login	1662461339731	1662461340452	OK	 
+REQUEST		POST /ff_auth/login	1662461339731	1662461340452	OK	 
+REQUEST		POST /ff_auth/login	1662461339731	1662461340469	OK	 
+REQUEST		POST /ff_auth/login	1662461339732	1662461340465	OK	 
+REQUEST		POST /ff_auth/login	1662461339730	1662461340464	OK	 
+REQUEST		POST /ff_auth/login	1662461339730	1662461340531	OK	 
+REQUEST		GET /ff_features/buildings/6ef8deb3-5c74-495c-b1ac-150a7141ed4d/rate_analysis_landing_page?energy_type_id=1	1662461340472	1662461341328	OK	 
+REQUEST		GET /ff_features/buildings/f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3/rate_analysis_landing_page?energy_type_id=1	1662461340452	1662461341286	OK	 
+REQUEST		GET /ff_features/buildings/9ae58a82-f232-47b1-9995-184b6c3be868/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461340479	1662461341263	OK	 
+REQUEST		GET /ff_features/buildings/acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba/rate_analysis_landing_page?energy_type_id=1	1662461340539	1662461341440	OK	 
+REQUEST		GET /ff_features/buildings/cda22037-e9d6-4f11-ab7d-056efb10a5b1/rate_analysis_landing_page?energy_type_id=1	1662461340452	1662461341319	OK	 
+REQUEST		GET /ff_features/buildings/70cbdc03-db12-481e-bac6-000a8091e62c/rate_analysis_landing_page?user_id=c8e5d9a7-231c-11eb-80d7-12ec1b9ce461&quantity_type=DEMAND&sdp_id=c4fced36-2323-11eb-80d7-12ec1b9ce461&energy_type_id=1	1662461340470	1662461341402	OK	 
+REQUEST		GET /ff_features/buildings/269f4e81-6278-46d9-912f-616d1ad60fa9/rate_analysis_landing_page?energy_type_id=1	1662461340472	1662461341402	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000261519	1662461341263	1662461342285	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5003527192	1662461341328	1662461342334	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002870935	1662461341402	1662461342393	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000023631	1662461341448	1662461342297	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000846937	1662461341328	1662461342285	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5002868247	1662461341295	1662461342285	OK	 
+REQUEST		GET /ff_features/batch_rate_analysis/sdps_list.json?sdp_ids=5000001549	1662461341410	1662461342336	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&chart_type=cost&tab=usage&energy_type_id=1	1662461342297	1662461343519	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&chart_type=cost&tab=usage&energy_type_id=1	1662461342336	1662461343808	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&chart_type=cost&tab=usage&energy_type_id=1	1662461342285	1662461343937	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&chart_type=cost&tab=usage&energy_type_id=1	1662461342285	1662461344005	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&chart_type=cost&tab=usage&energy_type_id=1	1662461342409	1662461343858	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&chart_type=cost&tab=usage&energy_type_id=1	1662461342309	1662461343934	OK	 
+REQUEST		GET /fe/charts/cost_over_time?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&chart_type=cost&tab=usage&energy_type_id=1	1662461342336	1662461344163	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461343519	1662461344508	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461343811	1662461344683	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461343937	1662461344729	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461344005	1662461344847	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461343862	1662461344887	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461343937	1662461344896	OK	 
+REQUEST		GET /ff_features/basic_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461344171	1662461345079	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=9ae58a82-f232-47b1-9995-184b6c3be868&energy_type_id=1	1662461344509	1662461345365	OK	 
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=cda22037-e9d6-4f11-ab7d-056efb10a5b1&energy_type_id=1	1662461344690	1662461345564	OK	 
+REQUEST		GET /ff_auth/logout	1662461346201	1662461346737	OK	 
+REQUEST		GET /ff_auth/logout	1662461346280	1662461346738	OK	 
+USER	Rates Performance1	END	1662461346731
+USER	Rates Performance6	END	1662461346731
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=6ef8deb3-5c74-495c-b1ac-150a7141ed4d&energy_type_id=1	1662461344729	1662461345619	OK	 
+REQUEST		GET /ff_auth/logout	1662461346445	1662461346890	OK	 
+USER	Rates Performance4	END	1662461346882
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=acdcebf5-4d7e-464e-a6a3-6c7b9a67c1ba&energy_type_id=1	1662461344896	1662461345853	OK	 
+REQUEST		GET /ff_auth/logout	1662461346588	1662461347017	OK	 
+USER	Rates Performance5	END	1662461347010
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=f007a9f6-120b-49a9-8f7b-6aa1c8ff2db3&energy_type_id=1	1662461344853	1662461345722	OK	 
+REQUEST		GET /ff_auth/logout	1662461346588	1662461347023	OK	 
+USER	Rates Performance2	END	1662461347015
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=269f4e81-6278-46d9-912f-616d1ad60fa9&energy_type_id=1	1662461344887	1662461345851	OK	 
+REQUEST		GET /ff_auth/logout	1662461346621	1662461347047	OK	 
+USER	Rates Performance3	END	1662461347040
+REQUEST		GET /ff_features/advanced_rate_simulator?building_id=70cbdc03-db12-481e-bac6-000a8091e62c&energy_type_id=1	1662461345089	1662461346000	OK	 
+REQUEST		GET /ff_auth/logout	1662461346764	1662461347203	OK	 
+USER	Rates Performance7	END	1662461347199

@@ -1,0 +1,10 @@
+{
+  "simulation": "rates.RatesPerformance",
+  "simulationId": "ratesperformance",
+  "start": 1662461289902,
+  "description": "",
+  "scenarios": ["Rates Performance4", "Rates Performance3", "Rates Performance5", "Rates Performance1", "Rates Performance2", "Rates Performance6", "Rates Performance7"],
+  "assertions": [
+
+  ]
+}
